@@ -1,0 +1,9 @@
+node2 > NAME = CPlayer//n IMG = model-tree////tv-class.gif//n REF = CPlayer.html->classFrame/a
+node3 > NAME = CReversiConsoleView//n IMG = model-tree////tv-class.gif//n REF = CReversiConsoleView.html->classFrame/a
+node4 > NAME = CReversiGame//n IMG = model-tree////tv-class.gif//n REF = CReversiGame.html->classFrame/a
+node1 > NAME = <default>//n IMG = model-tree////tv-physical-package.gif//n REF = default.cl.html->classFrame//n REF = doc-files////default.cl.html->imageFrame//n CHILDS = node2:node3:node4/a
+node5 > NAME = CPlayer//n IMG = model-tree////tv-class.gif//n REF = CPlayer.html->classFrame/a
+node6 > NAME = CReversiConsoleView//n IMG = model-tree////tv-class.gif//n REF = CReversiConsoleView.html->classFrame/a
+node7 > NAME = CReversiGame//n IMG = model-tree////tv-class.gif//n REF = CReversiGame.html->classFrame/a
+node0 > NAME = <default>//n IMG = model-tree////tv-pkg-diagram.gif//n REF = package-summary.html->classFrame//n CHILDS = node1:node5:node6:node7/a
+ROOT > CHILDS = node0
